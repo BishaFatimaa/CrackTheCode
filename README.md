@@ -49,3 +49,4 @@ To run **Crack the Code**, follow these steps:
 6. Follow the on-screen instructions to play the game.
 
 Have fun playing **Crack the Code**! Try to outsmart the computer and challenge your code-breaking skills.
+This game a console based game and can be turned into a more interactive and user friendly game by implementing GUI
